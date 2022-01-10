@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LGM-TASK-1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="home">
+        <nav>
+            <div class="Logo">E-Shop</div>
+            <div class="Menu">
+                <a href="#home">Home</a>
+                <a href="#Featured">Featured</a>
+                <a href="#Man">Man</a>
+                <a href="#Women">Women</a>
+                <a href="#contact">Contact</a>
+                <a href="#">Shop</a>
+            </div>
+        </nav>
+<div class="container">
+    <div class="left">
+        <img src="https://m.media-amazon.com/images/I/61c4oGqpNIL._AC_UY500_.jpg">
+    </div>
+          
+    <div class="right">
+      <h1>Best Festival Offers</h1>
+      <p>
+      We are providing best quality materials. We have best quality shoes for man and womens.
+      </p>
+      <p>50% Discount!!!</p>
+      <button>Shop</button><br>
+      <img src="icon.html">
+                
+                
+    </div>
+</div>
+</header>
+    <section id="Featured">
+    <h1>Featured</h1>   
+     <div class="wrapper">
+    <div class="box1">
+        <img src="https://rukminim1.flixcart.com/image/332/398/kl175ow0/sandal/v/v/e/9-hs06-9-ytrax-maroon-original-imagy8vrzbffnywk.jpeg?q=50" >
+        <div class="price">Price:$50</div>
+    </div>
+    <div>
+        <img src="https://m.media-amazon.com/images/I/61f4FoD9FpL._AC_UL320_.jpg">
+        <div class="price">Price:$40</div>
+    </div>
+    <div>
+        <img src="https://rukminim1.flixcart.com/image/332/398/jo1s8sw0/shoe/2/m/f/bt-fit-man-red-cs-10-bruton-red-original-imafakhggn2guwdw.jpeg?q=50" >
+        <div class="price">Price:$45</div>
+    </div>
+    <div>
+        <img src="https://m.media-amazon.com/images/I/61hRRG9N9sL._AC_UL320_.jpg">
+        <div class="price">Price:$40</div>
+    </div>
+    <div>
+        <img src="https://looksgud.com/blog/wp-content/uploads/2017/09/cutecumber.jpg">
+        <div class="price">Price:$50</div>
+    </div>
+</div>
+</section>
+ <section id="Man">
+     <h1>Men's Footwear</h1>
+     <div class="Man-row">
+         <div class="Man-box">
+             <img src="https://assets.ajio.com/medias/sys_master/root/hb3/h0c/12859312701470/united_colors_of_benetton_olive_green_&_grey_textured_low-top_lace-up_shoes_with_brand_logo.jpg">
+                <h2>Nike Ferr Tr<br>$129.78</h2>
+             <h3>Add to cart</h3>
+         </div>
+        <div class="Man-box">
+           <img src="https://i.pinimg.com/originals/47/0e/23/470e237111a94a099f8297e40ad93915.jpg">
+             <h2>Nike Ferr Tr<br>$456.3</h2>
+           <h3>Add to cart</h3>
+        </div>
+        <div class="Man-box">
+            <img src="https://image.made-in-china.com/202f0j00HaeUjdcsZgpb/New-Design-Spring-Casual-Boy-Sport-Sneakers-Shoes-Kids-Breathable-Fancy-Boys-Running-Shoes-Exr-2793.jpg">
+              <h2>Nike Ferr Tr<br>$450.3</h2>
+            <h3>Add to cart</h3>
+        </div>
+        <div class="Man-box">
+                <img src="https://m.media-amazon.com/images/I/71dhDC2YjWL._AC_UL320_.jpg">
+                  <h2>Nike Ferr Tr<br>$450.3</h2>
+                <h3>Add to cart</h3>
+        </div>
+        <div class="Man-box">
+            <img src="https://m.media-amazon.com/images/I/41cpYAiY1fL.jpg">
+              <h2>Nike Ferr Tr<br>$560</h2>
+            <h3>Add to cart</h3>
+        </div>
+    </div>
+</section>
+<section id="Women">
+    <h1>Women's Footwear</h1>
+    <div class="Man-row">
+        <div class="Man-box">
+            <img src="https://5.imimg.com/data5/WU/FF/MY-3767381/fancy-ladies-shoes-500x500.jpg">
+               <h2>Nike Ferr Tr<br>$129.78</h2>
+            <h3>Add to cart</h3>
+        </div>
+       <div class="Man-box">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndEvbDNZPQNZkbfVI_vSQRAPVbA4KkAOprQ&usqp=CAU">
+            <h2>Nike Ferr Tr<br>$456.3</h2>
+          <h3>Add to cart</h3>
+       </div>
+       <div class="Man-box">
+           <img src="https://4.imimg.com/data4/UU/RM/MY-8924631/ladies-fancy-belly-shoes-500x500.jpg">
+             <h2>Nike Ferr Tr<br>$450.3</h2>
+           <h3>Add to cart</h3>
+       </div>
+       <div class="Man-box">
+               <img src="https://rukminim1.flixcart.com/image/332/398/k4lmv0w0/shoe/h/y/w/stp-7-toshina-shoes-king-black-original-imafngru9h2ybfdk.jpeg?q=50">
+                 <h2>Nike Ferr Tr<br>$450.3</h2>
+               <h3>Add to cart</h3>
+       </div>
+       <div class="Man-box">
+           <img src="https://thumbs.dreamstime.com/b/ladies-shoes-13260901.jpg">
+             <h2>Nike Ferr Tr<br>$560</h2>
+           <h3>Add to cart</h3>
+       </div>
+    </div>
+
+</section>
+<section id="contact">
+    <h1>contact us</h1>
+    <div class="contact-box">
+        <div class="cont-right">
+           <form>
+              <div class="cont-mar">
+                 First Name:<input type="text"name="First Name">
+               </div>
+               <div class="cont-mar">
+                 Last Name:<input type="text"name="Last Name">
+                </div>
+                <div class="cont-mar">
+                   Email:<input type="email" name="email">
+                </div>
+                <div class="cont-mar">
+                  gender:Male<input type="checkbox"name="checkbox">Female<input type="checkbox"name="checkbox">other<input type="checkbox"name="checkbox"name="checkbox">
+                </div>
+                <div class="cont-mar">
+                  Product Deails:<input type="product details"name="product details">
+                </div>
+                <div class="cont-mar">
+                    Submit:<input type="submit"name="submit">
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+   <section id="footer">
+       <h2>Developed by Shraddha Shirole</h2>
+       <img src="icon.html">
+   </section>
+</body>
+</html>
